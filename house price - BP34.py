@@ -2,7 +2,7 @@
 """
 Created on Fri May 15 08:32:20 2020
 
-@author: 李奇
+@author: liki
 """
 
 from math import sqrt
